@@ -1,4 +1,4 @@
-# Simple Sales Dashboard Generator
+# Sales Dashboard Generator
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Plotly-green.svg)
