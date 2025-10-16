@@ -1,0 +1,5 @@
+order_id,order_date,product,category,quantity,price
+1001,2025-09-01,Widget A,Widgets,2,19.99
+1002,2025-09-02,Widget B,Widgets,1,29.99
+1003,2025-09-02,Gadget X,Gadgets,3,9.99
+1004,2025-09-03,Widget A,Widgets,1,19.99
